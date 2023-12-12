@@ -1,2 +1,2 @@
 # TestGit
-Test github pull and pust
+Test github pull and push
